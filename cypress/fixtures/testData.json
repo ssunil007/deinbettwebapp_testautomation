@@ -1,0 +1,17 @@
+{
+  "registerValidation":{
+    "new_accountquestion": "Ich möchte ein Kundenkonto anlegen",
+    "newregistrationtxt":"Neu registrieren"
+  },
+  "registrationDetails":{
+    "anrede":"Herr",
+    "vorname":"Tyrion",
+    "nachname":"Lannister",
+    "emailAdresse":"testdeinbett+",
+    "passwort":"Zeus007$"
+  },
+  "profileValidation":{
+    "name": "Tyrion Lannister",
+    "welcomeTxt":"Willkommen in Deinem Kundenkonto"
+  }
+}

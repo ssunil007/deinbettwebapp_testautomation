@@ -1,0 +1,102 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Registering a User in DeinBett WebApplication & Email Confirmation",
+    "line": 2,
+    "id": "registering-a-user-in-deinbett-webapplication-&-email-confirmation",
+    "tags": [
+      {
+        "name": "@Registration",
+        "line": 1
+      }
+    ],
+    "uri": "LoginRegistration.feature",
+    "elements": [
+      {
+        "id": "registering-a-user-in-deinbett-webapplication-&-email-confirmation;registering-a-user",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Registering a User",
+        "tags": [
+          {
+            "name": "@Registration",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open DeinBett WebApplication",
+            "result": {
+              "status": "passed",
+              "duration": 4600000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I click to procced to Registration",
+            "result": {
+              "status": "passed",
+              "duration": 3478000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "enter all details for Registration",
+            "result": {
+              "status": "passed",
+              "duration": 2310000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "click on continue",
+            "result": {
+              "status": "passed",
+              "duration": 211000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "validate homedashboard dispalyed",
+            "result": {
+              "status": "passed",
+              "duration": 4547000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "validate login profile",
+            "result": {
+              "status": "passed",
+              "duration": 52000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "logout from application",
+            "result": {
+              "status": "passed",
+              "duration": 1859000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

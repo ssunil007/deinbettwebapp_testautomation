@@ -1,0 +1,14 @@
+{
+  "chromeWebSecurity":false,
+  "defaultCommandTimeout": 25000,
+  "pageLoadTimeout": 60000,
+  "viewportWidth": 1280,
+  "viewportHeight": 720,
+  "env": {
+    "url": "https://www.deinbett.de"
+  },
+  "testFiles": "**/*.feature",
+  "retries": {
+    "runMode": 1
+  }
+}
